@@ -6,6 +6,7 @@ var difference = price2 - price1;
 var multiply = price1 * price2;
 var division = price1 / price2;
 
+// New 
 var doublePrice = price2 * 2;
 var newPrice = price1+10;
 price1 = price1 + 20;

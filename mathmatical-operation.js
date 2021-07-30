@@ -16,3 +16,11 @@ var availableMoney = 100;
 var orangePrice = 5;
 var singleQuantity = availableMoney/orangePrice;
 console.log(singleQuantity);
+
+// modulus
+var mango = 57;
+var person = 12;
+// var eachPerson = mango / person;
+var remaining = mango % person;
+console.log(eachPerson);
+console.log(remaining);
