@@ -15,7 +15,9 @@ console.log(newPrice);
 console.log(price1);
 
 var age = 24;
-// age = age + 1;
-// age += 1; //shorter version 
-age++; //for adding only 1
-console.log(age);
+age = age + 18; //(42)
+age += 18;//(60) shorter version
+age = age + 1;//(61)
+age += 1; //(62) shorter version 
+age++; //(63) for adding only 1
+console.log(age); //(63)
